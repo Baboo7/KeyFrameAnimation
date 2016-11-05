@@ -1,0 +1,13 @@
+backward.png
+forward.png
+link_off.png
+link_on.png
+moins.png
+pause.png
+play.png
+plus.png
+rotate_off.png
+rotate_on.png
+stop.png
+translate_off.png
+translate_on.png

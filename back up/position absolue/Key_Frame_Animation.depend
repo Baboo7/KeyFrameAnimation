@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1430577627 source:e:\documents\codeblocks\key_frame_animation\gui.cpp
+	"GUI.hpp"
+	<iostream>
+
+1430576879 e:\documents\codeblocks\key_frame_animation\gui.hpp
+	<Graphics.hpp>
+
+1367997278 e:\programmes (x86)\codeblocks\mingw\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1431622547 source:e:\documents\codeblocks\key_frame_animation\main.cpp
+	<Graphics.hpp>
+	<math.h>
+	"GUI.hpp"
+	"tree.hpp"
+	"sprite_manager.hpp"
+	"time_line.hpp"
+	<fstream>
+	<iostream>
+
+1431222185 e:\documents\codeblocks\key_frame_animation\tree.hpp
+	<vector>
+	<string>
+	"GUI.hpp"
+
+1431222194 source:e:\documents\codeblocks\key_frame_animation\tree.cpp
+	"tree.hpp"
+	"sprite_manager.hpp"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1431099198 e:\documents\codeblocks\key_frame_animation\sprite_manager.hpp
+	"tree.hpp"
+
+1431221575 source:e:\documents\codeblocks\key_frame_animation\sprite_manager.cpp
+	"sprite_manager.hpp"
+	<iostream>
+
+1431613607 e:\documents\codeblocks\key_frame_animation\time_line.hpp
+	<Graphics.hpp>
+	<vector>
+	"tree.hpp"
+
+1431614089 source:e:\documents\codeblocks\key_frame_animation\time_line.cpp
+	"time_line.hpp"
+	<iostream>
+	<math.h>
+
